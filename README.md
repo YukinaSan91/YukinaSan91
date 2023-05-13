@@ -23,6 +23,8 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&amp;logo=express&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/-БЭМ-00A3D9?style=flat&amp;logo=bem&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/-БЭМJSON-05122A?style=flat&amp;logo=bem&amp;logoColor=white" />
 
 
 
