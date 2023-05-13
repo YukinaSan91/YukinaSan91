@@ -21,6 +21,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=ff4500)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=vscode)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -31,7 +32,6 @@
 <img src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/-ООП-008CBA?style=flat&amp;logo=javascript&amp;logoColor=white" />
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
 
