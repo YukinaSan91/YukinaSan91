@@ -13,7 +13,7 @@
 
 ## :wrench: Мой стек
 
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&textfill=ffffff&fill=000000&animation=spin)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe)
 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
