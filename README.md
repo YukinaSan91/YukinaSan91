@@ -21,7 +21,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=ff4500)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=![image](https://github.com/YukinaSan91/YukinaSan91/assets/117830640/f00ef201-a769-4b59-be87-c10a0c9850ea))
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
