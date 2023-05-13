@@ -26,9 +26,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=codepen)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=notion)
 
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <img src="https://img.shields.io/badge/-БЭМ-00A3D9?style=flat&amp;logo=bem&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/-ООП-008CBA?style=flat&amp;logo=javascript&amp;logoColor=white" />
