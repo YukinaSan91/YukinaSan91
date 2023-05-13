@@ -22,7 +22,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=ff4500)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=ff7f50&logo=postman)
 
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
