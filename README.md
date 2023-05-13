@@ -9,7 +9,8 @@
 - :books: Изучаю фреймворки и прокачиваю свои soft-skills
 - :pencil: Стремлюсь писать чистый и понятный код
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
+
+![Current UTC time](https://time100.ru/Saint-Petersburg)
 
 ## :wrench: Мой стек
 
