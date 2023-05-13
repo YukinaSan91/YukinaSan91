@@ -22,10 +22,10 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=git&svgfill=ff4500)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=figma)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=ff7f50&logo=postman)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=postman)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=codepen)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=notion)
 
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
