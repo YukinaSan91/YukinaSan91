@@ -10,7 +10,6 @@
 - :pencil: Стремлюсь писать чистый и понятный код
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
 
-![Current UTC time](https://time100.ru/Saint-Petersburg)
 
 ## :wrench: Мой стек
 
@@ -22,6 +21,9 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&amp;logo=css3&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/-Express-000000?style=flat&amp;logo=express&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" />
