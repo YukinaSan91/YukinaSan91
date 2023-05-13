@@ -20,6 +20,7 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=bem)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
