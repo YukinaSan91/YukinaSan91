@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Web+developer)](https://git.io/typing-svg)
 <img src="http://phonoteka.org/uploads/posts/2021-03/1616684156_59-p-khaker-fon-62.jpg" />
-### Привет! Меня зовут Юлия и я Front-end Веб-разработчик :wink: 
+# Привет! Меня зовут Юлия и я Front-end Веб-разработчик :wink: 
 
 - :fire: Хочу развиваться в Веб-разработке и создавать удобный функционал для каждого пользователя
 - :crystal_ball: Творить магию 
@@ -10,7 +10,7 @@
 - :pencil: Стремлюсь писать чистый и понятный код
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
 
-# Связаться со мной: 
+### Связаться со мной: 
 ![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![Mail.ru](https://img.shields.io/badge/-Mail.ru-005FF9?style=flat-square&logo=mail.ru&logoColor=white)
