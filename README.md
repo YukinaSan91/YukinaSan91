@@ -10,6 +10,8 @@
 - :pencil: Стремлюсь писать чистый и понятный код
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
 
+# Связаться со мной: 
+![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)
 
 ## :wrench: Мой стек
 
