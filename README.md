@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Web+developer)](https://git.io/typing-svg)
 
-### Привет! Меня зовут Юлия и я Front-end Веб-разработчик :wink:
+### Привет! Меня зовут Юлия и я Front-end Веб-разработчик :wink: <img src="http://phonoteka.org/uploads/posts/2021-03/1616684156_59-p-khaker-fon-62.jpg" />
 
 - :fire: Хочу развиваться в Веб-разработке и создавать удобный функционал для каждого пользователя
 - :crystal_ball: Творить магию 
