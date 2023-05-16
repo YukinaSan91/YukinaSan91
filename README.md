@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front-end+Web+developer)](https://git.io/typing-svg)
-<img width="100%" src="http://phonoteka.org/uploads/posts/2021-03/1616684156_59-p-khaker-fon-62.jpg" />
+<img width="100%" height="75%" src="http://phonoteka.org/uploads/posts/2021-03/1616684156_59-p-khaker-fon-62.jpg" />
 # Привет! Меня зовут Юлия и я Front-end Веб-разработчик :wink: 
 
 - :fire: Хочу развиваться в Веб-разработке и создавать удобный функционал для каждого пользователя
