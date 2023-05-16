@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-ES6-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" />
 <img src="https://img.shields.io/badge/-ООП-008CBA?style=flat&amp;logo=javascript&amp;logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 
 
 
