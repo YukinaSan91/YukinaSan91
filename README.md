@@ -11,7 +11,7 @@
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
 
 ### Связаться со мной: 
-<a href="t.me/YukinaSan"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/YukinaSan"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
 ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 ![Mail.ru](https://img.shields.io/badge/-Mail.ru-005FF9?style=flat-square&logo=mail.ru&logoColor=white)
 
