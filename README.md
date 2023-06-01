@@ -12,10 +12,7 @@
 
 ### Связаться со мной: 
 <a href="https://t.me/YukinaSan"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-![Discord](https://img.shields.io/badge/Yu%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
-<a href="https://discord.me/Yu">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+
 
 ## :wrench: Мой стек
 
