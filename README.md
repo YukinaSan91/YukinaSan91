@@ -11,7 +11,7 @@
 - :beers: Хочу работать с опытными и интересными коллегами и вместе создавать крутые проекты
 
 ### Связаться со мной: 
-<a href="https://t.me/YukinaSan"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/YukinaSan"><img src="https://w7.pngwing.com/pngs/172/54/png-transparent-telegram-encapsulated-postscript-transfer-blue-angle-triangle.png"/></a>
 <a href="https://discord.com/Yu#4368">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
