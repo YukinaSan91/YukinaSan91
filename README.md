@@ -12,7 +12,7 @@
 
 ### Связаться со мной: 
 <a href="https://t.me/YukinaSan"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-<a href="https://discord.gg/773242707166232587">
+<a href="https://discord.com/Yu#4368">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
